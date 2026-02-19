@@ -11,3 +11,9 @@ E da un altro terminale dal path `smart-intranet`, il comando:
 
 Per avviare il progetto in produzione, eseguire da terminale il comando:
 `firebase deploy`
+
+-----------------
+
+Sito progetto:
+
+https://perf-test-pwa.firebaseapp.com/login
