@@ -16,4 +16,4 @@ Per avviare il progetto in produzione, eseguire da terminale il comando:
 
 Sito progetto:
 
-https://perf-test-pwa.firebaseapp.com/login
+https://perf-test-pwa.firebaseapp.com
